@@ -55,3 +55,4 @@ target/
 
 #params
 params.conf
+.DS_Store
